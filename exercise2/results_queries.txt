@@ -1,0 +1,190 @@
+query1:
+Enter your search query: *ump biden
+bigrams queried: ['um', 'mp', 'p$']
+terms matched: ['arresttrump', 'bidenvstrump', 'bunkerboytrump', 'byebyetrump', 'donaldtrump', 'dump', 'forrestgump', 'fucktrump', 'impeachtrump', 'jump', 'lump', 'marchfortrump', 'prisonfortrump', 'pump', 'realdonaldtrump', 'rump', 'shameontrump', 'stump', 'therealdonaldjtrump', 'thisisontrump', 'treasonoustrump', 'treasontrump', 'trump']
+There are 23 combinations of query terms...
+querying terms:['arresttrump', 'biden']
+querying terms:['bidenvstrump', 'biden']
+querying terms:['bunkerboytrump', 'biden']
+querying terms:['byebyetrump', 'biden']
+querying terms:['donaldtrump', 'biden']
+querying terms:['dump', 'biden']
+querying terms:['forrestgump', 'biden']
+querying terms:['fucktrump', 'biden']
+querying terms:['impeachtrump', 'biden']
+querying terms:['jump', 'biden']
+querying terms:['lump', 'biden']
+querying terms:['marchfortrump', 'biden']
+querying terms:['prisonfortrump', 'biden']
+querying terms:['pump', 'biden']
+querying terms:['realdonaldtrump', 'biden']
+querying terms:['rump', 'biden']
+querying terms:['shameontrump', 'biden']
+querying terms:['stump', 'biden']
+querying terms:['therealdonaldjtrump', 'biden']
+querying terms:['thisisontrump', 'biden']
+querying terms:['treasonoustrump', 'biden']
+querying terms:['treasontrump', 'biden']
+querying terms:['trump', 'biden']
+1346957047410032642 :    All these Republicans acting surprised that they turned up the temperature and the furnace finally exploded. Spare me the outrage. You enabled this. The people voted, ballots were counted and Trump lost. And you couldn’t even say Biden was president-elect. #shame #ArrestTrump
+1345808289901268993 :    #Socialmedia same as ever eh. Learn these facts then move onto talking about your hobbies or activities > Biden won. Trump lost. Boris Johnson is a fool. Don’t hate gay, trans, women etc. Wear a mask, lockdowns work; look at more virally successful countries. Xox 😇
+1345844988136058880 :    Un verdadero antiimperialista no debería alegrarse de la victoria de Joe Biden o el regreso de Trump[NEWLINE][NEWLINE]Más bien, debe saber que el Partido Demócrata y el Partido Republicano están trabajando para destruir los países pensador libre del mundo y son uno.[NEWLINE][NEWLINE]#USA
+1345880382584053760 :    what a kick in the nuts it would be if #Trump did change the law and Pence still went with #Biden anyways giving the democrats ALL that power #Trump is asking for,Pence may hear voices but he's a christian and won't do the communist "trump is god" thing
+1345881910824857602 :    #Trump isn't giving himself or Republicans a bad name they already had that. He's a Capitalist giving #Capitalism a bad name. Trump is destroying a free market economy because he lost an election.Trump could be the penultimate American President because Biden is also very corrupt
+1346911335498489863 :    So let's be clear - when Trump became president there was a pink pussy hat protest[NEWLINE][NEWLINE]When Biden became president there was an armed standoff on the floor of the House[NEWLINE][NEWLINE]#HistoryWillRemember this time with #Shame
+1346957047410032642 :    All these Republicans acting surprised that they turned up the temperature and the furnace finally exploded. Spare me the outrage. You enabled this. The people voted, ballots were counted and Trump lost. And you couldn’t even say Biden was president-elect. #shame #ArrestTrump
+1347104388469444611 :    US Congress confirms Biden's Election. Go home Trump. Try to have some dignity![NEWLINE]#USAElections2020 #Olympushasfallen #shame
+1347581176429629440 :    #Glad Trump won't attend Biden's inauguration.Will be a lovely day for all of us without him spoiling the great day.Biden and his new administration will bring new[NEWLINE]hopes ,decency,fairness which badly needed in America.Trump want attention that's why he announced he won't attend .
+
+
+query2:
+Enter your search query: auto* trump
+bigrams queried: ['$a', 'au', 'ut', 'to']
+terms matched: ['auto', 'autoaislamiento', 'autodestrucción', 'automated', 'automatic', 'automatically', 'automation', 'automotive', 'automotivequotes', 'autorenleben', 'autour']
+There are 11 combinations of query terms...
+querying terms:['auto', 'trump']
+querying terms:['autoaislamiento', 'trump']
+querying terms:['autodestrucción', 'trump']
+querying terms:['automated', 'trump']
+querying terms:['automatic', 'trump']
+querying terms:['automatically', 'trump']
+querying terms:['automation', 'trump']
+querying terms:['automotive', 'trump']
+querying terms:['automotivequotes', 'trump']
+querying terms:['autorenleben', 'trump']
+querying terms:['autour', 'trump']
+1347435141983989760 :    The Capitol mob broke windows, destroyed furniture, peed in the hallways. trump signed an executive order over the summer stating that anyone who desecrates federal property gets an automatic 10 years. Oh the #irony
+
+query3:
+Enter your search query: america ba*on
+bigrams queried: ['$b', 'ba', 'on', 'n$']
+terms matched: ['babylon', 'bacon', 'ballon', 'balloon', 'bandwagon']
+There are 5 combinations of query terms...
+querying terms:['america', 'babylon']
+querying terms:['america', 'bacon']
+querying terms:['america', 'ballon']
+querying terms:['america', 'balloon']
+querying terms:['america', 'bandwagon']
+1347142635752980482 :    This was not America the Great but instead Babylon the Whore. Shame on the GOP to consistently consider themselves Christians and the party of values. Should’ve known they were demonic when they attacked Pastor Warnock on his Matthew 25 message. [NEWLINE]#Shame #DomesticTerrorists #BLM
+
+query4:
+Enter your search query: *motion* feel*
+bigrams queried: ['mo', 'ot', 'ti', 'io', 'on']
+terms matched: ['emotion', 'emotional', 'emotionalintelligence', 'emotionally', 'emotionalresilience', 'emotions', 'healthyemotions', 'motion', 'negativeemotion', 'promotion', 'promotional', 'promotions', 'émotions']
+bigrams queried: ['$f', 'fe', 'ee', 'el']
+terms matched: ['feel', 'feelin', 'feeling', 'feelingemo', 'feelingloved', 'feelings', 'feelingstressed', 'feels']
+There are 104 combinations of query terms...
+querying terms:['emotion', 'feel']
+querying terms:['emotion', 'feelin']
+querying terms:['emotion', 'feeling']
+querying terms:['emotion', 'feelingemo']
+querying terms:['emotion', 'feelingloved']
+querying terms:['emotion', 'feelings']
+querying terms:['emotion', 'feelingstressed']
+querying terms:['emotion', 'feels']
+querying terms:['emotional', 'feel']
+querying terms:['emotional', 'feelin']
+querying terms:['emotional', 'feeling']
+querying terms:['emotional', 'feelingemo']
+querying terms:['emotional', 'feelingloved']
+querying terms:['emotional', 'feelings']
+querying terms:['emotional', 'feelingstressed']
+querying terms:['emotional', 'feels']
+querying terms:['emotionalintelligence', 'feel']
+querying terms:['emotionalintelligence', 'feelin']
+querying terms:['emotionalintelligence', 'feeling']
+querying terms:['emotionalintelligence', 'feelingemo']
+querying terms:['emotionalintelligence', 'feelingloved']
+querying terms:['emotionalintelligence', 'feelings']
+querying terms:['emotionalintelligence', 'feelingstressed']
+querying terms:['emotionalintelligence', 'feels']
+querying terms:['emotionally', 'feel']
+querying terms:['emotionally', 'feelin']
+querying terms:['emotionally', 'feeling']
+querying terms:['emotionally', 'feelingemo']
+querying terms:['emotionally', 'feelingloved']
+querying terms:['emotionally', 'feelings']
+querying terms:['emotionally', 'feelingstressed']
+querying terms:['emotionally', 'feels']
+querying terms:['emotionalresilience', 'feel']
+querying terms:['emotionalresilience', 'feelin']
+querying terms:['emotionalresilience', 'feeling']
+querying terms:['emotionalresilience', 'feelingemo']
+querying terms:['emotionalresilience', 'feelingloved']
+querying terms:['emotionalresilience', 'feelings']
+querying terms:['emotionalresilience', 'feelingstressed']
+querying terms:['emotionalresilience', 'feels']
+querying terms:['emotions', 'feel']
+querying terms:['emotions', 'feelin']
+querying terms:['emotions', 'feeling']
+querying terms:['emotions', 'feelingemo']
+querying terms:['emotions', 'feelingloved']
+querying terms:['emotions', 'feelings']
+querying terms:['emotions', 'feelingstressed']
+querying terms:['emotions', 'feels']
+querying terms:['healthyemotions', 'feel']
+querying terms:['healthyemotions', 'feelin']
+querying terms:['healthyemotions', 'feeling']
+querying terms:['healthyemotions', 'feelingemo']
+querying terms:['healthyemotions', 'feelingloved']
+querying terms:['healthyemotions', 'feelings']
+querying terms:['healthyemotions', 'feelingstressed']
+querying terms:['healthyemotions', 'feels']
+querying terms:['motion', 'feel']
+querying terms:['motion', 'feelin']
+querying terms:['motion', 'feeling']
+querying terms:['motion', 'feelingemo']
+querying terms:['motion', 'feelingloved']
+querying terms:['motion', 'feelings']
+querying terms:['motion', 'feelingstressed']
+querying terms:['motion', 'feels']
+querying terms:['negativeemotion', 'feel']
+querying terms:['negativeemotion', 'feelin']
+querying terms:['negativeemotion', 'feeling']
+querying terms:['negativeemotion', 'feelingemo']
+querying terms:['negativeemotion', 'feelingloved']
+querying terms:['negativeemotion', 'feelings']
+querying terms:['negativeemotion', 'feelingstressed']
+querying terms:['negativeemotion', 'feels']
+querying terms:['promotion', 'feel']
+querying terms:['promotion', 'feelin']
+querying terms:['promotion', 'feeling']
+querying terms:['promotion', 'feelingemo']
+querying terms:['promotion', 'feelingloved']
+querying terms:['promotion', 'feelings']
+querying terms:['promotion', 'feelingstressed']
+querying terms:['promotion', 'feels']
+querying terms:['promotional', 'feel']
+querying terms:['promotional', 'feelin']
+querying terms:['promotional', 'feeling']
+querying terms:['promotional', 'feelingemo']
+querying terms:['promotional', 'feelingloved']
+querying terms:['promotional', 'feelings']
+querying terms:['promotional', 'feelingstressed']
+querying terms:['promotional', 'feels']
+querying terms:['promotions', 'feel']
+querying terms:['promotions', 'feelin']
+querying terms:['promotions', 'feeling']
+querying terms:['promotions', 'feelingemo']
+querying terms:['promotions', 'feelingloved']
+querying terms:['promotions', 'feelings']
+querying terms:['promotions', 'feelingstressed']
+querying terms:['promotions', 'feels']
+querying terms:['émotions', 'feel']
+querying terms:['émotions', 'feelin']
+querying terms:['émotions', 'feeling']
+querying terms:['émotions', 'feelingemo']
+querying terms:['émotions', 'feelingloved']
+querying terms:['émotions', 'feelings']
+querying terms:['émotions', 'feelingstressed']
+querying terms:['émotions', 'feels']
+1345826834274013193 :    "If you don't feel an overwhelming sense of emotion when you listen to music, then you're listening to the wrong kind."[NEWLINE][NEWLINE]- Jennifer Salaiz, Poisonous Pleasure[NEWLINE][NEWLINE]#emotions #love #music
+1345550383272189952 :    Back pain is consistently a sign of a lack in emotional support, feeling unloved, and holding back love.[NEWLINE][NEWLINE]#anxietyhelp[NEWLINE]#healing
+1345871828175237126 :    Had a great conversation with other black men this afternoon about barriers and challenges associated with emotional vulnerability this afternoon. Feeling inspired to write... 🤓 #blackmen #mentalhealth #psych
+1345542862793023488 :    If you think you’re being emotionally abused, you probably are. Unless you have narcissistic personality disorder. In which case, you’ll feel like a victim in any situation. #relationships #personality #pathology
+1345523981953114113 :    They say you gotta let yourself feel the emotions you need to in that moment and let it go. But how long does it take to feel better? #selfcare #selflove
+1345726878179586048 :    How do you feel right now? Observe your emotions without judging them. #mindfulness #bot
+1345795080163123201 :    Confused ... chocked up with emotions and words ... I feel like a ticking bomb ... [NEWLINE][NEWLINE]Is it the planets and the stars ? Or is it me ?! [NEWLINE][NEWLINE]#life
+1345826834274013193 :    "If you don't feel an overwhelming sense of emotion when you listen to music, then you're listening to the wrong kind."[NEWLINE][NEWLINE]- Jennifer Salaiz, Poisonous Pleasure[NEWLINE][NEWLINE]#emotions #love #music
+1345767862825230336 :    Sometimes i find solace within..... silent..absolutely void of words ... emotions .. great feeling 💕💕💕[NEWLINE][NEWLINE]#thoughts [NEWLINE]#GoodNightTwitterWorld
+1345679096622284801 :    Remember that:[NEWLINE][NEWLINE]You are not alone.[NEWLINE]Change is a natural part of life.[NEWLINE]Everything is temporary.[NEWLINE]You'll overcome negative emotions.[NEWLINE]Feelings lead to growth, new beginnings & a new sense of self.[NEWLINE]The past can't be changed but you can learn from it[NEWLINE]You are important.[NEWLINE][NEWLINE]#Inspirational

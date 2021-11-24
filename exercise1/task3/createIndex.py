@@ -17,7 +17,7 @@ import pickle
 
 # config
 indexName = datetime.today().strftime('%Y%m%d-%H_%M_%S') + "_index.pickle"
-nrows = 0
+nrows = 10000
 
 
 # token normalization
@@ -28,7 +28,7 @@ def normalize(line):
     if (type(text) != str):
         return ""
 
-    for ch in ['[NEWLINE]', '[TAB]', '#', '\\', '`', '*', '_', '{', '}', '[', ']',
+    for ch in ['[NEWLINE]', '[TAB]', '#', ',', ';', ':', '\\', '`', '*', '_', '{', '}', '[', ']',
                '(', ')', '>', '+', '-', '.', '!', '?', '$', '\'', '"', '/']:
         if ch in text:
             text = text.replace(ch, " ")
